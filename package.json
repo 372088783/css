@@ -41,6 +41,7 @@
   "scripts": {
     "update": "npm i --save-dev caniuse-db && npm run build",
     "test": "gulp lint",
+    "view": "live-server  --port=10001",
     "build": "gulp"
   },
   "config": {

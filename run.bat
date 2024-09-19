@@ -1,0 +1,1 @@
+start /b npm run view -- --silent > output.log 2>&1
